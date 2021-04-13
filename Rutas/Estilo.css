@@ -6,3 +6,21 @@ font-size: small;}
 body{font-family: Arial, Helvetica, sans-serif;}
 
 h1{text-align: center;}
+h2{color: chocolate;}
+h5{color: coral;}
+.contenedor{    
+background-color: blanchedalmond;
+width: 95%;
+margin-left: auto;
+margin-bottom: auto;
+padding: 15px;
+margin-top: auto;
+margin-right: auto;
+}
+.division{
+    border: rgb(194, 111, 16) solid 2px;
+}
+.contenido{color: bisque;}
+.segundaP{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 20px;
+}
