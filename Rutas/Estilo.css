@@ -22,5 +22,7 @@ margin-right: auto;
 }
 .contenido{color: bisque;}
 .segundaP{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 15px;
 }
+p{font-size: 14px;background-color: bisque;}
+.Resumen{background-color: darksalmon;}
