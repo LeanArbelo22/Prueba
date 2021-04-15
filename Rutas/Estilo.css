@@ -15,6 +15,8 @@ padding: 5px;
 
 body{font-family: Arial, Helvetica, sans-serif;}
 
+
+
 h1{text-align: center;}
 h2{color: chocolate;}
 h5{color: coral;}
@@ -27,9 +29,29 @@ padding: 15px;
 margin-top: auto;
 margin-right: auto;
 }
+
+
 .division{
     border: rgb(228, 158, 101) solid 2px;
+    border-style: outset;
+    width: 80px;
+  height: 60px; 
+  margin: auto;
 }
+
+
+
+
+img{
+    display: block;
+    margin: auto;
+/* para centrar imagenes */
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+
 #contenido{
     background-color: rgba(228, 194, 152, 0.938);
     border: rgb(184, 152, 110) solid 1px;
